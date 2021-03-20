@@ -1,2 +1,0 @@
-First line in file1 by Dev A
-line added by Dev B
